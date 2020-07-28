@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803625783211",
+    "firebase_url": "https://my-info-34da4.firebaseio.com",
+    "project_id": "my-info-34da4",
+    "storage_bucket": "my-info-34da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803625783211:android:2d786981dbe35253f44cee",
+        "android_client_info": {
+          "package_name": "com.baba.personal_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803625783211-9i5e51afmgtpok1k2dr35hioc6dkbnl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6RZth63FIn2SEGwND_XdfGGfoaEPIrZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803625783211-9i5e51afmgtpok1k2dr35hioc6dkbnl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
